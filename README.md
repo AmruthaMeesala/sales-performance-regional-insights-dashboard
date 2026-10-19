@@ -1,4 +1,4 @@
-# SkillCraft Technology Internship - Task 1
+# Sales Performance & Regional Insights Dashboard
 
 # Interactive Sales Dashboard using Microsoft Excel
 
